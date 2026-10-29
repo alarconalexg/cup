@@ -1,0 +1,6 @@
+compound,code,base_life_laps,condition,source
+Soft,S,15,dry,stated
+Medium,M,30,dry,stated
+Hard,H,45,dry,stated
+Intermediate,I,20,wet,stated
+Weather,W,40,wet,stated
